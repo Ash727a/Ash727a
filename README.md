@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ash727a
+- 👋 Hi, I go by ash 
 - 👀 I’m interested in Robotics, Linux, and Embedded programming
 - 🌱 I’m currently learning Data Structures & Algorithms, ROS2, C# WPF
 
